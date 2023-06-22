@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.beh_kbbi">
+
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="Beh KKBI"
         android:name="${applicationName}"

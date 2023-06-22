@@ -1,16 +1,9 @@
 # beh_kbbi
 
-A new Flutter project.
+beh kbbi adalah aplikasi yang dapat membantu untuk mencari arti dari kosakata bahasa indonesia
 
-## Getting Started
+aplikasi ini dibuat dengan Flutter dan juga menggunakan API (https://typoonline.com/kbbi/)
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2023-06-22_22-54-42](https://github.com/BEM28/beh_kbbi/assets/65394086/e5ec2540-2d5b-47a5-aa5e-3abc5d1b3bb2)
